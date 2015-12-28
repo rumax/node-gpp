@@ -1,0 +1,3 @@
+This is windows build of last known GPP release 2.24
+
+GPP is under GPL, sources can be obtained at http://en.nothingisreal.com/wiki/GPP#Source_code

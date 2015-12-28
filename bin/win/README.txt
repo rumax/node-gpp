@@ -1,0 +1,1 @@
+http://makc.googlecode.com/svn/trunk/gpp.2.24-windows

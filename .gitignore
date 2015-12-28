@@ -1,0 +1,5 @@
+# Build and Release Folders
+dist/
+
+# Other files and folders
+node_modules/
